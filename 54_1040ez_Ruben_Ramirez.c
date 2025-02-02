@@ -2,21 +2,13 @@
 /************************************************************************
 * Programmer:Ruben Ramirez
 *
-* Course:  CSCI 1320.03
-*
-* Date: April 28, 2016
-*
 * Assignment Number | Keyword : 21 | 1040ez
-*
-* Point Value :  400
 *
 * Environment: visual studio 2013
 *
-* Files Included: output.txt
+* Files Included: output.txt, Input:data.txt
 *
 * Purpose: to print input file for form 1040ez
-*
-* Input:data.txt
 *
 * Preconditions:none
 *
@@ -26,12 +18,10 @@
 *
 * Algorithm: while loop to read file and print user tax info
 *
-*
 * Errors:
 *
 * Example: Show an example in terms of input and output (if appropriate)
 *
-* History:re-used code from structure program
 ***********************************************************************/
 
 #include <stdio.h>   // printf
