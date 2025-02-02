@@ -6,7 +6,9 @@
 *
 * Environment: visual studio 2013
 *
-* Files Included: output.txt, Input:data.txt
+* Files Included: 
+* output: 54_1040ez_Ruben_Ramirez.txt
+* Input: data.txt
 *
 * Purpose: to print input file for form 1040ez
 *
