@@ -1,0 +1,222 @@
+54_1040ez_Ruben_Ramirez
+
+GARY ALLEN 	608712869
+461 Park
+Houston TX 77729
+1. Income 		1841
+2. Interest 		264
+3. Unemployment 	280
+4. Gross income 	2385
+5. Dependents 		0
+6. taxable income 	2385
+7. Withholding 		349
+8a. EIC 		184
+9. Credits 		533
+10. Tax 		239
+11. Healthcare 		0
+12. Total tax 		239
+13b. Routing number 	123464979
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: GARY ALLEN
+
+GREGORY ANDERSON 	997293343
+2525 Main
+Houston TX 77510
+1. Income 		2113
+2. Interest 		1112
+3. Unemployment 	0
+4. Gross income 	3225
+5. Dependents 		0
+6. taxable income 	3225
+7. Withholding 		126
+8a. EIC 		248
+9. Credits 		374
+10. Tax 		324
+11. Healthcare 		0
+12. Total tax 		324
+13b. Routing number 	123460675
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: GREGORY ANDERSON
+
+HAROLD BROWN 	693768602
+9530 Cedar
+Houston TX 77063
+1. Income 		1392
+2. Interest 		44
+3. Unemployment 	0
+4. Gross income 	1436
+5. Dependents 		0
+6. taxable income 	1436
+7. Withholding 		236
+8a. EIC 		111
+9. Credits 		347
+10. Tax 		144
+11. Healthcare 		0
+12. Total tax 		144
+13b. Routing number 	123465004
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: HAROLD BROWN
+
+HENRY CLARK 	831518898
+11411 Ash
+Houston TX 77501
+1. Income 		3185
+2. Interest 		624
+3. Unemployment 	661
+4. Gross income 	4470
+5. Dependents 		0
+6. taxable income 	4470
+7. Withholding 		95
+8a. EIC 		343
+9. Credits 		438
+10. Tax 		448
+11. Healthcare 		0
+12. Total tax 		448
+13b. Routing number 	123458210
+13d. Account number 	2147483647
+14. Tax due 		10
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: HENRY CLARK
+
+IRENE DAVIS 	177538206
+8916 Maple
+Houston TX 77999
+1. Income 		696
+2. Interest 		192
+3. Unemployment 	0
+4. Gross income 	888
+5. Dependents 		0
+6. taxable income 	888
+7. Withholding 		76
+8a. EIC 		69
+9. Credits 		145
+10. Tax 		90
+11. Healthcare 		0
+12. Total tax 		90
+13b. Routing number 	123465054
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: IRENE DAVIS
+
+JACQUELINE GARCIA 	387528036
+13770 Dogwood
+Houston TX 77757
+1. Income 		7406
+2. Interest 		33
+3. Unemployment 	0
+4. Gross income 	7439
+5. Dependents 		0
+6. taxable income 	7439
+7. Withholding 		1555
+8a. EIC 		503
+9. Credits 		2058
+10. Tax 		745
+11. Healthcare 		0
+12. Total tax 		745
+13b. Routing number 	123456840
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: JACQUELINE GARCIA
+
+JANE GONZALEZ 	864208208
+15890 Magnolia
+Houston TX 77641
+1. Income 		9300
+2. Interest 		972
+3. Unemployment 	2302
+4. Gross income 	12574
+5. Dependents 		0
+6. taxable income 	12574
+7. Withholding 		2232
+8a. EIC 		169
+9. Credits 		2401
+10. Tax 		1428
+11. Healthcare 		0
+12. Total tax 		1428
+13b. Routing number 	123461721
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: JANE GONZALEZ
+
+JASON HALL 	251568768
+16966 Holly
+Houston TX 77348
+1. Income 		992
+2. Interest 		890
+3. Unemployment 	0
+4. Gross income 	1882
+5. Dependents 		0
+6. taxable income 	1882
+7. Withholding 		138
+8a. EIC 		145
+9. Credits 		283
+10. Tax 		189
+11. Healthcare 		0
+12. Total tax 		189
+13b. Routing number 	123464586
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: JASON HALL
+
+JEFFREY HARRIS 	715171650
+821 Oak
+Houston TX 77045
+1. Income 		2215
+2. Interest 		785
+3. Unemployment 	0
+4. Gross income 	3000
+5. Dependents 		0
+6. taxable income 	3000
+7. Withholding 		243
+8a. EIC 		231
+9. Credits 		474
+10. Tax 		301
+11. Healthcare 		0
+12. Total tax 		301
+13b. Routing number 	123456965
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: JEFFREY HARRIS
+
+JERRY HERNANDEZ 	368253270
+5056 Pine
+Houston TX 77799
+1. Income 		2859
+2. Interest 		149
+3. Unemployment 	1540
+4. Gross income 	4548
+5. Dependents 		0
+6. taxable income 	4548
+7. Withholding 		371
+8a. EIC 		349
+9. Credits 		720
+10. Tax 		456
+11. Healthcare 		0
+12. Total tax 		456
+13b. Routing number 	123463848
+13d. Account number 	2147483647
+14. Tax due 		0
+Designee: Ruben Ramirez	Phone no.: 123-456-7854
+
+Your signature: JERRY HERNANDEZ
+
